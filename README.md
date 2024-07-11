@@ -212,6 +212,7 @@ The notebook *Var_Coef_Ratio.ipynb* contains the functions to compute the Variat
 ## Contribution 👤
 
 Mathieu Verest, EPFL Bachelor Project.
+
 mathieu.verest@epfl.ch
 
 
