@@ -1,4 +1,4 @@
-# **Dietary Minimum Days Estimation**![Daco_5778147](https://github.com/maverest/Dietary_Minimum_Days_Estimation/assets/114407059/0df505a9-33d0-4eef-aaeb-11a6f701916a)
+# **Dietary Minimum Days Estimation**
 
 
 ## Table of Contents 📚
