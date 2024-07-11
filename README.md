@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Prerequisites and Installation](#prerequisites-and-installation)
+- [Prerequisites](#prerequisites)
 - [Project Structure](#project-structure)
 - [Analysis Results access](#analysis-results-access)
 - [Report and presentation](#report-and-presentation)
@@ -12,7 +12,7 @@
 
 The aim of this work is to identify the minimum number of days generally required to achieve reliable estimates of the nutritional intake of a subject over a week. The accuracy of nutritional features estimations is assessed using two metrics: the mean intake over different days and the within-subject standard deviation (W-std) in intake between days. These metrics are computed for different number of days combinations (1, 2, 3, ..., 7), for each subject and nutritional features, and compared with a reference period (entire week, 7 days), using the Intraclass Correlation Coefficient (ICC), to evaluate the reliability depending on the number and combinations of days sampled. Additional methods including Principal Component Analysis (PCA), Bland-Altman, and the within, between subject variation coefficient ratio ($CVw/CVb$) analysis were performed to compare, confirm, and strengthen the results
 
-## Prerequisites and Installation,
+## Prerequisites
 
 - Python 3.11+
 - Jupyter Notebook
@@ -27,11 +27,7 @@ The aim of this work is to identify the minimum number of days generally require
     - pingouin
     - scikit-learn
 
-1. Clone the repository:
-
-    `git clone https://github.com/your-username/your-repository.git`
-
-2. Create conda environment:
+Create conda environment:
 
     `conda env create -f environment.yml`
   
