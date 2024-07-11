@@ -64,12 +64,12 @@ Dietary_Minimum_Days_Estimation/
 
 ## Analysis Results Access
 
-All the analysis are done using the prepared data set: **data_for_analysis.csv**
+All the analysis are done using the prepared data set: *data_for_analysis.csv*
 This dataset comprising 453 distinct subjects, each providing dietary intake data representing one complete consecutive week. 37 different nutritional features were analyzed
 
 ### ICC, Bland-Altan and LMM Analysis
 
-The notebook ICC_Bland_LMM.ipynb contains the functions to compute and plot the ICC Analysis results. Here is a summary of the main functions.
+The notebook *ICC_Bland_LMM.ipynb*  contains the functions to compute and plot the ICC Analysis results. Here is a summary of the main functions.
 
 - **LMM**
 
@@ -185,17 +185,17 @@ All the ICC scores are saved in the pkl file format in the ICC_Results/consecuiv
 
 All the ICC scores are saved in the pkl file format in the folders ICC_Results/unconsecuive/...
 
-- **Bland-Altmann** (ICC_Bland_LMM.ipynb)
+- **Bland-Altmann** 
 
     The diferents function create Bland-Altmann metrics table saved in Bland_Altman_Results/ folder
 
 ### Principal Components Analysis
 
-The notebook **PCA.ipynb** contains the functions to compute and plot the PCA results.
+The notebook *PCA.ipynb* contains the functions to compute and plot the PCA results.
 
-### Variation Coefficient Ratio Analysis**
+### **Variation Coefficient Ratio Analysis**
 
-The notebook **Var_Coef_Ratio.ipynb** contains the functions to compute the Variation Coefficient Ration Analysis results.
+The notebook *Var_Coef_Ratio.ipynb* contains the functions to compute the Variation Coefficient Ration Analysis results.
 
 ## Report and presentation
 
