@@ -61,13 +61,8 @@ Dietary_Minimum_Days_Estimation/
 ├── README.md                      # Main project documentation
 ```
 ## Usage
-All the analysis are done using the prepared data set [data_for_analysis.csv](#data_for_analysis.csv) in the folder Data/data_set/
-This dataset comprising 453 distinct subjects, each providing dietary intake data representing one complete consecutive week. The 37 nutritional features listed below were analyzed: 
-![image](https://github.com/maverest/Dietary_Minimum_Days_Estimation/assets/114407059/d95096df-6f72-41b6-a637-3cdb3bf41510)
-
-
-
-
+All the analysis are done using the prepared data set: data_for_analysis.csv
+This dataset comprising 453 distinct subjects, each providing dietary intake data representing one complete consecutive week. 37 different nutritional features were analyzed
 
 ### **ICC, Bland-Altan and LMM Analysis** 
 **[ICC_Bland_LMM.ipynb notebook](#ICC_Bland_LMM.ipynb)**
