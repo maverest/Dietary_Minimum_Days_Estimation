@@ -2,12 +2,13 @@
 
 ## 📚 Table of Contents
 
-- [Project Description](#🔍-project-description)
+- [Project Description](#project-description)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Analysis Results access](#analysis-results-access)
 - [Report and presentation](#report-and-presentation)
+  
 
 ## 🔍 Project Description
 
@@ -67,7 +68,7 @@ Dietary_Minimum_Days_Estimation/
 └── Week_Comp.ipynb                # Script for comparing weeks in terms of mean intake using ICC
 ```
 
-## Analysis Results Access
+## 📊 Analysis Results Access
 
 All the analysis are done using the prepared data set: *data_for_analysis.csv*
 This dataset comprising 453 distinct subjects, each providing dietary intake data representing one complete consecutive week. 37 different nutritional features were analyzed
@@ -200,7 +201,7 @@ The notebook *PCA.ipynb* contains the functions to compute and plot the PCA resu
 
 The notebook *Var_Coef_Ratio.ipynb* contains the functions to compute the Variation Coefficient Ration Analysis results.
 
-## Report and presentation
+## 📑 Report and presentation
 
 [Report.pdf](https://github.com/user-attachments/files/16180832/Report.pdf)
 
