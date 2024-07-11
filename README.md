@@ -27,13 +27,13 @@ The aim of this work is to identify the minimum number of days generally require
 
 1. Clone the repository:
 
-   `git clone https://github.com/your-username/your-repository.git`
+    `git clone https://github.com/your-username/your-repository.git`
    
 3. Create conda environement:
    
-`conda env create -f environement.yml`
-
-`conda activate Dietary_Minimum_Days_Estimation_env`
+    `conda env create -f environement.yml`
+    
+    `conda activate Dietary_Minimum_Days_Estimation_env`
 
 
 ## Project Structure
@@ -63,7 +63,8 @@ Dietary_Minimum_Days_Estimation/
 ## Usage
 All the analysis are done using the prepared data set [data_for_analysis.csv](#data_for_analysis.csv) in the folder Data/data_set/
 This dataset comprising 453 distinct subjects, each providing dietary intake data representing one complete consecutive week. The 37 nutritional features listed below were analyzed: 
-![alt text](image.png)
+![image](https://github.com/maverest/Dietary_Minimum_Days_Estimation/assets/114407059/d95096df-6f72-41b6-a637-3cdb3bf41510)
+
 
 
 
