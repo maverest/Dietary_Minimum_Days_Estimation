@@ -13,7 +13,7 @@ These function allows to plot (Figure 2 in the report) a heatmap presenting the 
 
 They must be called this way: 
 
-`stat = compute_LMM(full_weeks, save = True)\\ 
+`stat = compute_LMM(full_weeks, save = True)\
 plot_LMM_heatmap(stat[0], stat[1])`
 
 **2) ICC**
