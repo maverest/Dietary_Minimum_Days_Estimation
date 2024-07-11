@@ -139,9 +139,7 @@ The notebook *ICC_Bland_LMM.ipynb*  contains the functions to compute and plot t
     ```
 
     ---
-
-All the ICC scores are saved in the pkl file format in the ICC_Results/consecuive/ folders
-
+  
 - **ICC unconsecutive days approach**
 
     ```python
@@ -194,4 +192,7 @@ The notebook *PCA.ipynb* contains the functions to compute and plot the PCA resu
 The notebook *Var_Coef_Ratio.ipynb* contains the functions to compute the Variation Coefficient Ration Analysis results.
 
 ## Report and presentation
+[Report.pdf](https://github.com/user-attachments/files/16180832/Report.pdf)
+[Presentation.pdf](https://github.com/user-attachments/files/16180834/Presentation.pdf)
+
 
