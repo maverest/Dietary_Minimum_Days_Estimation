@@ -65,7 +65,7 @@ All the analysis are done using the prepared data set: data_for_analysis.csv
 This dataset comprising 453 distinct subjects, each providing dietary intake data representing one complete consecutive week. 37 different nutritional features were analyzed
 
 ### **ICC, Bland-Altan and LMM Analysis** 
-**[ICC_Bland_LMM.ipynb notebook](#ICC_Bland_LMM.ipynb)**
+**[ICC_Bland_LMM.ipynb notebook](#[ICC_Bland_LMM.ipynb](https://github.com/maverest/Dietary_Minimum_Days_Estimation/blob/main/ICC_Bland_LMM.ipynb))**
 
 **1) LMM**
 
