@@ -4,11 +4,17 @@
 **[ICC_Bland_LMM.ipynb notebook](#ICC_Bland_LMM.ipynb)**
 
 **1) LMM**
+
 `def compute_LMM(data, features = features, save = False, covid = False):`
+
 `def plot_LMM_heatmap(p_values, coef_values):`
+
 These function allows to plot (Figure 2 in the report) a heatmap presenting the coefficients for each day of the week, treated as a categorical fixed effect in a LMM, for each nutritional feature. Additionally, it includes the p-value results that test the null hypothesis that the coefficients for each day are equal to zero. The LMM was fitted using the subjects as random effect and BMI, gender, age group, and day of the week as categorical fixed effects.
+
 They must be called this way: 
+
 `stat = compute_LMM(full_weeks, save = True)`
+
 `plot_LMM_heatmap(stat[0], stat[1])`
 
 **2) ICC**
