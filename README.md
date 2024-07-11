@@ -1,6 +1,6 @@
 # **Dietary Minimum Days Estimation**
 
-## Table of Contents
+## 📚 Table of Contents
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
@@ -192,7 +192,9 @@ The notebook *PCA.ipynb* contains the functions to compute and plot the PCA resu
 The notebook *Var_Coef_Ratio.ipynb* contains the functions to compute the Variation Coefficient Ration Analysis results.
 
 ## Report and presentation
+
 [Report.pdf](https://github.com/user-attachments/files/16180832/Report.pdf)
+
 [Presentation.pdf](https://github.com/user-attachments/files/16180834/Presentation.pdf)
 
 
