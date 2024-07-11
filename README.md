@@ -26,8 +26,11 @@ The aim of this work is to identify the minimum number of days generally require
     - scikit-learn
 
 1. Clone the repository:
+
    `git clone https://github.com/your-username/your-repository.git`
-2. Create conda environement:
+   
+3. Create conda environement:
+   
 `conda env create -f environement.yml`
 
 `conda activate Dietary_Minimum_Days_Estimation_env`
