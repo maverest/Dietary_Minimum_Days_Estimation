@@ -29,9 +29,9 @@ The aim of this work is to identify the minimum number of days generally require
 
 Create conda environment:
 
-    `conda env create -f environment.yml`
+`conda env create -f environment.yml`
   
-    `conda activate Dietary_Minimum_Days_Estimation_env`
+`conda activate Dietary_Minimum_Days_Estimation_env`
 
 ## Project Structure
 
