@@ -2,7 +2,7 @@
 
 ## 📚 Table of Contents
 
-- [Project Description](#🔍-project-description)
+- [Project Description](project-description)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
@@ -10,7 +10,7 @@
 - [Report and presentation](#report-and-presentation)
   
 
-## 🔍 Project Description
+## Project Description
 
 The aim of this work is to identify the minimum number of days generally required to achieve reliable estimates of the nutritional intake of a subject over a week. The accuracy of nutritional features estimations is assessed using two metrics: the mean intake over different days and the within-subject standard deviation (W-std) in intake between days. These metrics are computed for different number of days combinations (1, 2, 3, ..., 7), for each subject and nutritional features, and compared with a reference period (entire week, 7 days), using the Intraclass Correlation Coefficient (ICC), to evaluate the reliability depending on the number and combinations of days sampled. Additional methods including Principal Component Analysis (PCA), Bland-Altman, and the within, between subject variation coefficient ratio ($CVw/CVb$) analysis were performed to compare, confirm, and strengthen the results
 
